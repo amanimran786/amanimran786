@@ -89,20 +89,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanimran786&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amanimran786&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amanimran786&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 ### 🤝 Let's Connect!
