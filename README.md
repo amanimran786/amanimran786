@@ -97,6 +97,4 @@ _SJSU Software Engineering grad — always open to interesting conversations and
 
 [![Portfolio](https://img.shields.io/badge/Check_out_my_Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://aman-portfolio-green.vercel.app/)
 
-![Visitors](https://komarev.com/ghpvc/?username=amanimran786&color=blueviolet&style=for-the-badge)
-
 </div>
