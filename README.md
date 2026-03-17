@@ -6,7 +6,7 @@
 
 ### 🔐 Full-Stack Developer | Cybersecurity | AI & ML | Mobile Dev
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/amanimran786/AI-Malware-Detection)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://aman-portfolio-green.vercel.app/)
 [![E-Portfolio](https://img.shields.io/badge/E--Portfolio-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://sites.google.com/view/aman-imran-e-portfolio/home)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-i-636013111/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aman.imran@sjsu.edu)
@@ -25,7 +25,7 @@
 - 🏛️ Former leadership at **Ohlone Engineering Society** & **Ohlone Physics Club** (NASA Student Launch Program)
 - 💬 Ask me about **Python, TypeScript, Swift, Java, or Security**
 - 📫 Reach me: **aman.imran@sjsu.edu**
-- 🌐 Portfolio: **[AI-Malware-Detection](https://github.com/amanimran786/AI-Malware-Detection)**
+- 🌐 Portfolio: **[aman-portfolio-green.vercel.app](https://aman-portfolio-green.vercel.app/)**
 
 ---
 
@@ -85,7 +85,7 @@
 | 🧠 **[MindRight](https://github.com/YTAF20/MindRight)** | Mental wellness web application with browser extension | Java, JavaScript, HTML, Spring Boot |
 | 🏦 **[Food Bank Inventory System](https://github.com/amanimran786/FoodBankInventorySystem)** | Relational database system for managing food bank inventories, donors & distributions | Java, MySQL, SQL |
 | 🌤️ **[Weather Widget](https://github.com/amanimran786/Weather_Widget)** | Desktop weather widget application | Python |
-| 💻 **[Portfolio](https://github.com/amanimran786/AI-Malware-Detection)** | Hacker-themed portfolio with security-first UI, deployed on Vercel | Next.js, TypeScript, Tailwind CSS |
+| 💻 **[Portfolio](https://aman-portfolio-green.vercel.app/)** | Hacker-themed portfolio with security-first UI, deployed on Vercel | Next.js, TypeScript, Tailwind CSS |
 
 ---
 
@@ -95,6 +95,6 @@
 
 _SJSU Software Engineering grad — always open to interesting conversations and collaboration opportunities._
 
-[![Portfolio](https://img.shields.io/badge/Check_out_my_Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/amanimran786/AI-Malware-Detection)
+[![Portfolio](https://img.shields.io/badge/Check_out_my_Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://aman-portfolio-green.vercel.app/)
 
 </div>
