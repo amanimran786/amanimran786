@@ -24,7 +24,7 @@
 - 🚀 Built projects in **malware detection, phishing analysis, and mobile development**
 - 🏛️ Former leadership at **Ohlone Engineering Society** & **Ohlone Physics Club** (NASA Student Launch Program)
 - 💬 Ask me about **Python, TypeScript, Swift, Java, or Security**
-- 📫 Reach me: **aman.imran@sjsu.edu**
+- 📫 Reach me: **abdullahimran234@gmail.com**
 - 🌐 Portfolio: **[aman-portfolio-green.vercel.app](https://aman-portfolio-green.vercel.app/)**
 
 ---
